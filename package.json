@@ -1,0 +1,19 @@
+{
+  "name": "cmb-back",
+  "version": "0.0.1",
+  "description": "Control deployment of concurrent app versions",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mondora/cmb-back.git"
+  },
+  "author": "Paolo Scanferla <paolo.scanferla@mondora.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mondora/cmb-back/issues"
+  },
+  "homepage": "https://github.com/mondora/cmb-back"
+}
