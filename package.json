@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/mondora/cmb-back/issues"
   },
-  "homepage": "https://github.com/mondora/cmb-back"
+  "homepage": "https://github.com/mondora/cmb-back",
+  "dependencies": {
+    "faye-websocket": "^0.7.2",
+    "hiredis": "^0.1.17",
+    "lodash": "^2.4.1",
+    "redis": "^0.11.0"
+  }
 }

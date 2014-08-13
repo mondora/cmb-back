@@ -1,0 +1,4 @@
+export DOCKER_HTTP_ENDPOINT='http://127.0.0.1'
+export DOCKER_PORT='9980'
+export REDIS_TCP_ENDPOINT='127.0.0.1'
+export REDIS_PORT='6379'
